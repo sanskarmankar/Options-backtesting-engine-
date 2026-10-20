@@ -1,0 +1,6 @@
+__pycache__/
+.cache/
+saved_strategies/
+saved_combinations/
+.option_lab_settings.json
+*.pyc
